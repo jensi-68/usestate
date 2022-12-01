@@ -1,0 +1,28 @@
+input[type="text"]
+{
+    color: white;
+}
+body
+{
+    background-color: white;
+}
+#b1, #b2, #b3, #b4, #b5,#b6, #b7, #b8, #b9 
+{
+		width: 80px;
+		height: 52px;
+		/* margin: auto; */
+		border: 1px solid grey;
+		border-radius: 6px;
+		font-size: 30px;
+		text-align: center;
+		background-color: black;
+		color: white;
+}
+.main-box
+{
+	margin:40px 0px; 
+}
+.box4, .box3, .box2
+{
+    display: flex;
+}

@@ -1,0 +1,56 @@
+.to-box
+{
+  width: 500px; 
+  height: auto; 
+  background-color: rgb(245, 247, 142);
+  margin: auto;
+  padding: 40px;
+  text-align: center;
+}
+.to-box input[type="text"]
+{
+  font-size: 22px;
+  font-weight: 500;
+  padding: 5px 10px;
+  border: 2px solid black;
+  border-radius: 10px;
+  color: black;
+}
+.to-box .submit input[type="button"] , .edit , .delete
+{
+  font-size: 20px;
+  padding: 8px 20px;
+  border-radius: 10px;
+}
+.to-box
+.edit , .delete
+{
+  font-size: 18px;
+  padding: 8px 20px;
+  border-radius: 10px;
+}
+.to-box
+span
+{
+  font-size: 26px;
+  font-weight: 600;
+  /* margin-right: 10px; */
+}
+.to-box
+tr,td,th
+{
+  border: 2px solid black !important;
+  padding: 10px 30px;
+  text-align: center;
+}
+.to-box
+th
+{
+  font-size: 28px;
+}
+.to-box
+td
+{
+  font-size: 26px;
+  font-weight: 600;
+}

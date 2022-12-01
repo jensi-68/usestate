@@ -1,0 +1,69 @@
+/* .grid 
+{
+    display: inline-grid;
+    grid-template-columns: repeat(3,1fr);
+    margin: 70px auto;
+}
+input
+{
+    width: 100px;
+    height: 100px;
+    font-size: 30px;
+    margin: 5px 2px;
+}
+.btn
+{
+    background-color: lightblue;
+    border-radius: 10px;
+    border-width: 3px;
+    box-shadow: inset 2px 2px 5px black,inset -2px -2px 5px black;
+}
+.reset
+{
+    display: grid;
+    margin-left: 43%;
+    margin-top: -2%;
+    width: 13%;
+    background-color: lightgoldenrodyellow;
+    font-size: 30px;
+    border-width: 3px;
+    box-shadow: inset 4px 4px 5px black,inset -4px -4px 5px black;
+
+}
+h1
+{
+    color: black;
+    font-size: 50px;
+    margin-bottom: 3px;
+}
+body
+{
+    background-color: lightblue;
+    text-align: center;
+    color: whitesmoke;
+    text-transform: capitalize;
+} */
+
+
+
+
+.p-box input[type="button"]
+{
+  width: 150px;
+  height: 150px;
+  background-color: rgb(196, 238, 255);
+  font-size: 50px;
+  text-align: center;
+}
+.game
+{
+  width: 500px;
+  height: auto;
+  margin: auto;
+}
+.reset button
+{
+  padding: 8px 30px;
+  font-size: 26px;
+  border-radius: 10px;
+}
